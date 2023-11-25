@@ -1,0 +1,11 @@
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.deps.json
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.dll
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.pdb
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.AssemblyInfoInputs.cache
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.AssemblyInfo.cs
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.csproj.CoreCompileInputs.cache
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.dll
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net7.0\refint\Tarker.Booking.External.dll
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.pdb
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net7.0\ref\Tarker.Booking.External.dll

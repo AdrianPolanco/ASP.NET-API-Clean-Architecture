@@ -11,10 +11,10 @@ using Tarker.Booking.Domain.Entities.User;
 namespace Tarker.Booking.Application.Interfaces
 {
     public interface IDatabaseService{
-        DbSet<UserEntity> User { get; set; }
+        DbSet<UserEntity> User { get; set; } 
         DbSet<CustomerEntity> Customer { get; set; }
         DbSet<BookingEntity> Booking { get; set; }
         Task<bool> SaveAsync();
-    
+        
     }
 }

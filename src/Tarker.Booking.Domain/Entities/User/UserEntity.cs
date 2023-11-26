@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tarker.Booking.Domain.Entities.Booking;
 
 namespace Tarker.Booking.Domain.Entities.User
 {
@@ -13,5 +14,7 @@ namespace Tarker.Booking.Domain.Entities.User
         public string LastName { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
+        //Relacion de uno a muchos entre UserEntity y BookingEntity, es decir un User puede tener muchos Bookings
+        public ICollection<BookingEntity> Bookings { get; set;}
     }
 }

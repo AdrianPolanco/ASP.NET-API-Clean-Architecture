@@ -1028,6 +1028,20 @@
           }
         }
       },
+      "Tarker.Booking.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.8",
+          "Tarker.Booking.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tarker.Booking.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tarker.Booking.Application.dll": {}
+        }
+      },
       "Tarker.Booking.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -3182,6 +3196,11 @@
         "version.txt"
       ]
     },
+    "Tarker.Booking.Application/1.0.0": {
+      "type": "project",
+      "path": "../Tarker.Booking.Application/Tarker.Booking.Application.csproj",
+      "msbuildProject": "../Tarker.Booking.Application/Tarker.Booking.Application.csproj"
+    },
     "Tarker.Booking.Domain/1.0.0": {
       "type": "project",
       "path": "../Tarker.Booking.Domain/Tarker.Booking.Domain.csproj",
@@ -3191,6 +3210,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.8",
+      "Tarker.Booking.Application >= 1.0.0",
       "Tarker.Booking.Domain >= 1.0.0"
     ]
   },
@@ -3227,6 +3247,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\adfer\\Desktop\\ASPNETCore\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+              "projectPath": "C:\\Users\\adfer\\Desktop\\ASPNETCore\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+            },
             "C:\\Users\\adfer\\Desktop\\ASPNETCore\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
               "projectPath": "C:\\Users\\adfer\\Desktop\\ASPNETCore\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
             }

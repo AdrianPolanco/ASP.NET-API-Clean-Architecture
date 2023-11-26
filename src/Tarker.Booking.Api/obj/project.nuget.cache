@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "89SyJbcsJvfdUXEdJi9wEF8K21N7DBsHF+cYurUufYF0vsMnFN5YmhKaM6J8xjVS8yELS9bIYMmxf67vAtDl6Q==",
+  "dgSpecHash": "rQgHYX1LDUUd28/A5YNPLHP4jHz/Y7gvYvs+0FFlcIdGch/2O7/hc/pPDfhqQ1buiizrxLVI2ZqTJH0N24GUKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\adfer\\Desktop\\ASPNETCore\\Tarker.Booking\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adfer\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\adfer\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\adfer\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\adfer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\adfer\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\adfer\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\adfer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\adfer\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
     "C:\\Users\\adfer\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\adfer\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",

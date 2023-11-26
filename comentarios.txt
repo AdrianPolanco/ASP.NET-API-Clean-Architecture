@@ -1,0 +1,21 @@
+/*Establece una ruta /createTest en el servidor, al llamar esa ruta se ejecutara la funcion flecha dentro, IDatabaseService
+ es sustituido por DatabaseService
+app.MapPost("/createTest", async (IDatabaseService _databaseService) => {
+    //Creando nuevo usuario
+    UserEntity user = new UserEntity() { FirstName = "Adrian", LastName="Polanco", UserName="adferrer", Password="GhsQMSj00" };
+    /*Se llama a la tabla User (que sale del DbSet<UserEntity> User de la clase DatabaseService que hereda de DbContext), para usar
+     el metodo .AddAsync para guardar el usuario que creamos previamente
+    await _databaseService.User.AddAsync(user);
+    //Se guardan los cambios hechos al hacer una operacion de edicion en la DB (Create, Update o Delete)
+    await _databaseService.SaveAsync();
+    //Se retorna este mensaje al cliente
+    return "Resource created";
+});*/
+
+/*app.MapGet("/getTest", async(IDatabaseService _databaseService) => { 
+    Accede a la tabla User del _databaseService y la convierte a ListAsync, espera a que se resuelva la operacion y asigna
+     el resultado a users
+    List<UserEntity> users = await _databaseService.User.ToListAsync();
+    //Retorna la lista obtenida, la cual convierte automaticamente a JSON
+    return users;
+});*/

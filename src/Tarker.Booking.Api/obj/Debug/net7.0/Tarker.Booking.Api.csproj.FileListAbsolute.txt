@@ -74,3 +74,8 @@ C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\bin\Debu
 C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net7.0\Tarker.Booking.Domain.pdb
 C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.csproj.AssemblyReference.cache
 C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net7.0\Tarker.Booking.Api.csproj.CopyComplete
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net7.0\Tarker.Booking.Common.dll
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net7.0\Tarker.Booking.External.dll
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net7.0\Tarker.Booking.Common.pdb
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net7.0\Tarker.Booking.External.pdb
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net7.0\AutoMapper.dll

@@ -9,3 +9,4 @@ C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Common\obj\D
 C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net7.0\refint\Tarker.Booking.Common.dll
 C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.pdb
 C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net7.0\ref\Tarker.Booking.Common.dll
+C:\Users\adfer\Desktop\ASPNETCore\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.csproj.AssemblyReference.cache

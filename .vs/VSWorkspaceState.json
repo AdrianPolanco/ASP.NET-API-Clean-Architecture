@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Tarker.Booking.Application",
+    "\\src\\Tarker.Booking.Application\\Configuration",
+    "\\src\\Tarker.Booking.Application\\Database",
+    "\\src\\Tarker.Booking.Application\\Database\\User"
+  ],
+  "SelectedNode": "\\src\\Tarker.Booking.Application\\Database\\User",
+  "PreviewInSolutionExplorer": false
+}
